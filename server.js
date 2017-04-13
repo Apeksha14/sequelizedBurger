@@ -28,5 +28,5 @@ app.use('/', routes);
 
 var port = process.env.port || 3306;
 app.listen(port,function(){
-    console.log('App is running, server is listening on port ', app.get('port'));
+    console.log('App is running, server is listening on port ', port);
 });
