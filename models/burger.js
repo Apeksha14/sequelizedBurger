@@ -2,7 +2,7 @@
 
 'use strict'
 var Sequelize = require('sequelize');
-var config    = require(__dirname + '/../config/config.json')["development"];
+var config    = require(__dirname + '/../config/config.json')["production"];
 var sequelize = new Sequelize(config.database, config.username, config.password, config);
 
 
