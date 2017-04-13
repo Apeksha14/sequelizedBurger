@@ -19,6 +19,7 @@
     "username": "q2e9kc3dczub88us",
     "password": "tdc9p5t94mr0mjr5",
     "database": "b7r3mp70j69dtfbl",
+    "port":3306,
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "use_env_variable": "mysql://q2e9kc3dczub88us:tdc9p5t94mr0mjr5@wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/b7r3mp70j69dtfbl"
   }
