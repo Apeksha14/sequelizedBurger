@@ -3,7 +3,7 @@
     "username": "q2e9kc3dczub88us",
     "password": "tdc9p5t94mr0mjr5",
     "port":8889,
-    "database": "burgers_db",
+    "database": "b7r3mp70j69dtfbl",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "use_env_variable": "JAWSDB_URL",
     "dialect": "mysql"
@@ -12,7 +12,7 @@
     "username": "q2e9kc3dczub88us",
     "password": "tdc9p5t94mr0mjr5",
     "port":8889,
-    "database": "burgers_db",
+    "database": "b7r3mp70j69dtfbl",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "use_env_variable": "JAWSDB_URL",
 
@@ -22,10 +22,9 @@
     "username": "q2e9kc3dczub88us",
     "password": "tdc9p5t94mr0mjr5",
     "port":8889,
-    "database": "burgers_db",
+    "database": "b7r3mp70j69dtfbl",
     "host": "wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-    "use_env_variable": "JAWSDB_URL",
-
+    "use_env_variable": "mysql://q2e9kc3dczub88us:tdc9p5t94mr0mjr5@wvulqmhjj9tbtc1w.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/b7r3mp70j69dtfbl",
     "dialect": "mysql"
   }
 }
